@@ -39,7 +39,7 @@ A binary variable indicating whether the patient received hormonal therapy.
 1 = yes
 
 •	rfstime (recurrence-free survival time):
-Represents the time in days to the first occurrence of either recurrence, death, or the last follow-up. 
+Represents the time in days to the first occurrence of either recurrence, death, or the last follow-up.
 
 •	status:
 A binary variable indicating the patient's status.
