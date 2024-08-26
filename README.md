@@ -1,4 +1,4 @@
-# Breast-Cancer-Occurrence-Factors-using-Machine-Learning
+# Breast Cancer Recurrence Prediction using Machine Learning 
 Predicting the recurrence of breast cancer in women by analyzing various factors that can influence the likelihood of the cancer returning. In this project, we experiment with multiple machine learning models in search of a model that best fits the data and has high accuracy.
 
 The data set contains patient records from a 1984-1989 trial conducted by the German Breast Cancer Study Group (GBSG) of 720 patients with node positive breast cancer; it retains the 686 patients with complete data for the prognostic variables. These data sets are used in the paper by Royston and Altman (2013). The Rotterdam data is used to create a fitted model, and the GBSG data for validation of the model. The paper gives references for the data source. 
